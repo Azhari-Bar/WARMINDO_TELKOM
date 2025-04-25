@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029899466296",
+    "project_id": "warmindoapp-f7577",
+    "storage_bucket": "warmindoapp-f7577.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029899466296:android:b41ffd17efafa8d58318cd",
+        "android_client_info": {
+          "package_name": "com.example.warmindo_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC79Jk3XDDAECOmGUYHVDXBIHFs7IFEU2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+name: warmindo_application
+description: "A new Flutter project."
+
+# Mencegah paket dipublikasikan secara tidak sengaja ke pub.dev
+publish_to: 'none'
+
+# Versi aplikasi
+version: 1.0.0+1
+
+# Versi SDK yang digunakan
+environment:
+  sdk: ^3.7.0
+
+# Dependencies utama
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.12.1  # Versi terbaru
+  cloud_firestore: ^5.6.5
+  firebase_auth: ^5.5.1
+  intl: ^0.18.0
+  flutter_rating_bar: ^4.0.0
+  pdf: ^3.6.0
+  printing: ^5.6.0
+  path_provider: ^2.0.11
+  permission_handler: ^10.2.0 
+# Dependencies untuk pengujian
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+# Konfigurasi Flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/warmindo_logo.png
+    - assets/warmindo_A.png
+    - assets/warmindo_B.png
+    - assets/warmindo_C.png
+
+
+
+
+
